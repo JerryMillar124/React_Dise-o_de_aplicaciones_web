@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import './componentes/Diseño.css';
 import { createClient } from '@supabase/supabase-js';
 
